@@ -12,6 +12,7 @@ Prereqs
 * jupyter notebook or lab with bash kernel
 * cf cli, bosh cli, k14 tools
 * kubectl and context pointed to proper cluster. Modify notebooks as needed for local environment.
+* helm client
 * k9s optional for inspecting cluster
 * DNS zone to set wildcard domain
 * Your own application to push to TAS (TODO: add link to working test app)
