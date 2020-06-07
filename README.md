@@ -15,7 +15,7 @@ Prereqs
 * helm client
 * k9s optional for inspecting cluster
 * DNS zone to set wildcard domain
-* Your own application to push to TAS (TODO: add link to working test app)
+* An application to push to TAS (Sample go app: https://github.com/cloudfoundry-samples/test-app.git)
 
 To start, run from repository root:
 
